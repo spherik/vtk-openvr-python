@@ -1,0 +1,12 @@
+set(vtkPython_LOADED 1)
+set(vtkPython_DEPENDS "vtkCommonCore")
+set(vtkPython_LIBRARIES "C:/Users/user/Anaconda3/envs/brainx3vis_env/libs/python36.lib")
+set(vtkPython_INCLUDE_DIRS "C:/Users/user/Documents/BrainX3/vtk-python-openvr/Utilities/Python;C:/Users/user/Documents/BrainX3/VTK/Utilities/Python;C:/Users/user/Anaconda3/envs/brainx3vis_env/include")
+set(vtkPython_LIBRARY_DIRS "")
+set(vtkPython_RUNTIME_LIBRARY_DIRS "C:/Users/user/Documents/BrainX3/vtk-python-openvr/bin")
+set(vtkPython_WRAP_HIERARCHY_FILE "")
+set(vtkPython_KIT "")
+set(vtkPython_TARGETS_FILE "")
+set(vtkPython_EXCLUDE_FROM_WRAPPING 1)
+set(VTK_PYTHONPATH "C:/Users/user/Documents/BrainX3/vtk-python-openvr/bin/$<CONFIG>/Lib/site-packages")
+
